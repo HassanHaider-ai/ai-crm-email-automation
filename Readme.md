@@ -2,7 +2,6 @@
 
 > Automates the complete customer email handling process using AI—from email analysis to CRM updates, ticket creation, automated replies, and activity logging.
 
-![System Architecture](./workflow/architecture-diagram.txt)
 
 ---
 
