@@ -2,7 +2,7 @@
 
 > Automates the complete customer email handling process using AI—from email analysis to CRM updates, ticket creation, automated replies, and activity logging.
 
-![System Architecture](workflow/architecture-diagram.png)
+![System Architecture](./workflow/architecture-diagram.txt)
 
 ---
 
@@ -43,6 +43,8 @@ I built this project to automate this complete workflow using AI, reducing manua
 8. The ticket is associated with the correct contact.
 9. An acknowledgement email is automatically sent to the customer.
 10. The complete interaction is logged in Google Sheets.
+
+
 
 ---
 
