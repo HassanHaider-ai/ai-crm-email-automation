@@ -204,6 +204,6 @@ This structured data is then used throughout the automation workflow.
 
 ## Author
 
-**Hassan Haider**
+**Hassan Haider Abbas**
 
 GitHub: https://github.com/HassanHaider-ai
