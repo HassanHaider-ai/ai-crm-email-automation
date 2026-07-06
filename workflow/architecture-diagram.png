@@ -1,0 +1,41 @@
+Gmail
+   │
+   ▼
+Google Gemini AI
+   │
+   ▼
+Extract JSON
+   │
+   ▼
+Search Contact (HubSpot)
+   │
+   ├── Contact Found
+   │      │
+   │      ▼
+   │  Update Contact
+   │
+   └── Contact Not Found
+          │
+          ▼
+     Create Contact
+          │
+          ▼
+     Intent Router
+          │
+ ┌────────┼──────────┬────────────┬────────────┐
+ │        │          │            │
+Sales  Complaint  Support   General Inquiry
+ │        │          │            │
+ └────────┴──────────┴────────────┘
+          │
+          ▼
+     Create Ticket
+          │
+          ▼
+ Associate Contact
+          │
+          ▼
+ Reply to Email
+          │
+          ▼
+ Log to Google Sheets
